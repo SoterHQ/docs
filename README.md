@@ -16,4 +16,4 @@ A digital crypto wallet for Aleo blockchain ; Providing users with services such
 
 ## Download
 
-[soter-aleo-wallet](https://chrome.google.com/webstore/detail/soter-aleo-wallet/kfpmpkkjaohgchlokcohbaokindffdjk)
+[soter-aleo-wallet](https://chromewebstore.google.com/detail/soter-aleo-wallet/gkodhkbmiflnmkipcmlhhgadebbeijhh)
